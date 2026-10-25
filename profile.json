@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "login": "x53e76f0f",
+  "seed": "#0D0F06",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons",
+    "wave"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I’m",
+    "name": "x53e76f0f",
+    "subtitle": "Backend engineering, infrastructure automation & systems tooling.",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "terminal",
+        "label": "Backend & systems"
+      },
+      {
+        "icon": "terminal",
+        "label": "Linux · DevOps"
+      },
+      {
+        "icon": "code",
+        "label": "C# · Python · Go"
+      }
+    ]
+  },
+  "about": {
+    "title": "What I do",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Build backend services, APIs and automation tools"
+      },
+      {
+        "icon": "terminal",
+        "label": "Run Linux infrastructure, containers and CI/CD"
+      },
+      {
+        "icon": "terminal",
+        "label": "Debug runtimes, performance and network protocols"
+      },
+      {
+        "icon": "code",
+        "label": "Explore security, reverse engineering and system internals"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Engineering toolkit",
+    "groups": [
+      {
+        "title": "Languages & runtime",
+        "items": [
+          {
+            "icon": "code",
+            "label": "C# / .NET"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "code",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Infrastructure & tooling",
+        "items": [
+          {
+            "icon": "terminal",
+            "label": "Linux"
+          },
+          {
+            "icon": "terminal",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "terminal",
+            "label": "Nginx"
+          },
+          {
+            "icon": "terminal",
+            "label": "SQL / databases"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "selected",
+    "repos": [
+      "x53e76f0f/EarlyClient",
+      "x53e76f0f/kemsu-schedule-bot",
+      "x53e76f0f/station-lite2",
+      "x53e76f0f/LineofSight",
+      "x53e76f0f/DomainSentinel",
+      "x53e76f0f/TgBackUP"
+    ],
+    "overrides": {},
+    "empty": "Selected work across systems, infrastructure and developer tooling.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:git",
+        "url": "https://github.com/x53e76f0f"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "Browse repositories",
+        "url": "https://github.com/x53e76f0f?tab=repositories",
+        "style": "filled"
+      },
+      {
+        "icon": "code",
+        "label": "Current projects",
+        "url": "https://github.com/x53e76f0f/Projects",
+        "style": "tonal"
+      }
+    ]
+  }
+}
