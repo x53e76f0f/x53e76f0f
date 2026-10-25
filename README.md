@@ -1,48 +1,21 @@
-# x53e76f0f
+<div align="center">
 
-**Backend engineering · Infrastructure · Systems & automation**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I’m x53e76f0f"></picture>
 
-I build backend services, automate infrastructure, and investigate complex software behavior. My focus is on reliability, measurable performance, clear diagnostics, and solutions that are easy to maintain.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="What I do"></picture>
 
-## Tech stack
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Engineering toolkit"></picture>
 
-**Languages & runtimes**
+<a href="https://github.com/x53e76f0f/TgBackUP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tgbackup-dark.svg"><img src="assets/project-tgbackup-light.svg" width="49%" alt="TgBackUP"></picture></a>&nbsp;<a href="https://github.com/x53e76f0f/DomainSentinel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-domainsentinel-dark.svg"><img src="assets/project-domainsentinel-light.svg" width="49%" alt="DomainSentinel"></picture></a>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-**Infrastructure & delivery**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<a href="https://github.com/x53e76f0f?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Browse repositories"></picture></a>&nbsp;&nbsp;<a href="https://github.com/x53e76f0f/Projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Current projects"></picture></a>
 
-**Data & integrations**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-455A64?style=flat-square)
-![HTTP](https://img.shields.io/badge/HTTP%20%2F%20WebSockets-455A64?style=flat-square)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-455A64?style=flat-square)
+<a href="https://metawka.github.io/expressive-profile/?from=x53e76f0f"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-## What I work on
-
-- **Backend & APIs:** service design, integrations, background jobs, concurrency, and fault tolerance.
-- **DevOps & self-hosting:** Linux services, containerization, reverse proxies, networking, CI/CD, and monitoring.
-- **Diagnostics & performance:** profiling, tracing, debugging, regression testing, and bottleneck analysis.
-- **Systems & interoperability:** runtime instrumentation, protocol investigation, reverse engineering, and native/managed integration.
-- **Automation:** reproducible workflows, operational tooling, and safe, reversible changes.
-
-## Exploring further
-
-**Go** for backend development, embedded systems, and local machine-learning inference.
-
-> Prefer evidence over assumptions, observability over guesswork, and reproducible fixes over one-off workarounds.
+</div>
