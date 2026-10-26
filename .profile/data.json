@@ -1,8 +1,8 @@
 {
- "key": "5495c717",
+ "key": "3ffbccb5",
  "stars": 23,
- "contributions": 15,
- "repos": 14,
+ "contributions": 14,
+ "repos": 13,
  "followers": 1,
  "languages": [
   [
@@ -99,7 +99,7 @@
   ],
   [
    {
-    "c": 5,
+    "c": 4,
     "day": 25,
     "today": false
    },
@@ -159,15 +159,6 @@
    "topics": [
     "supervisor-process-manager-restart-monitoring"
    ]
-  },
-  {
-   "name": "yandex-station-web",
-   "url": "https://github.com/x53e76f0f/yandex-station-web",
-   "text": "Веб-панель для Яндекс Станций (Лайт 2, Мини 3, Мини 3 Про, Станция 2) с root-доступом по adb: плеер, будильник без интернета, заставка, подсветка, Bluetooth, графики, консоль",
-   "fork": true,
-   "stars": 0,
-   "language": "HTML",
-   "topics": []
   },
   {
    "name": "x53e76f0f",
